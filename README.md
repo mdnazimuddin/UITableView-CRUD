@@ -1,5 +1,5 @@
 # UITableView CRUD
-iOS UITableView CRUD Project thats mens Data insert , Update , Delete
+iOS UITableView CRUD Project thats means Data insert , Update , Delete
 
 ### Screensort
 
